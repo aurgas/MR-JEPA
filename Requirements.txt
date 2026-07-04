@@ -1,0 +1,26 @@
+# Core numerical libraries
+numpy
+pandas
+
+# Deep learning
+torch
+torchvision
+
+# Machine learning
+scikit-learn
+
+# Data handling
+datasets
+
+# Progress bars
+tqdm
+
+# Visualisation
+matplotlib
+
+# File formats
+openpyxl
+
+# Optional (if used for notebook experiments)
+jupyter
+ipykernel
